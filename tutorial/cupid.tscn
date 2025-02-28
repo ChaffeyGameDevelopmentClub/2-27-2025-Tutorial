@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://dtby7eu67xo7m"]
+
+[ext_resource type="Texture2D" uid="uid://1q225gex2q0f" path="res://header-proboscis-monkeys.jpg" id="1_irqnn"]
+
+[node name="cupid" type="Sprite2D"]
+texture = ExtResource("1_irqnn")
